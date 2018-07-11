@@ -7,7 +7,7 @@ class Anagram
   
   def match(anagrams)
     anagrams.select do |scrambled|
-    
+      scrambled.split('')
     end
   end
 end
