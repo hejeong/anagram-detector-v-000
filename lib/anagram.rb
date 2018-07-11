@@ -9,6 +9,5 @@ class Anagram
     anagrams.select do |scrambled|
       
     end
-      
   end
 end
