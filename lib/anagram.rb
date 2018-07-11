@@ -6,6 +6,9 @@ class Anagram
   end
   
   def match(anagrams)
-    
+    anagrams.select do |scrambled|
+      
+    end
+      
   end
 end
